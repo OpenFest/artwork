@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1236.5"
+   height="766.5"
+   id="svg3057"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="New document 5">
+  <title
+     id="title3097">OpenFest Eye Logo</title>
+  <defs
+     id="defs3059">
+    <color-profile
+       name="Apple-RGB"
+       xlink:href="/usr/share/color/icc/colord/AppleRGB.icc"
+       id="color-profile3076" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="146.82143"
+     inkscape:cy="383.25"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3062">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>OpenFest Eye Logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(243.25,-149.11218)">
+    <path
+       inkscape:connector-curvature="0"
+       d="m -243.25,512.11218 78.375,-89 201.875,197.25 c 15.25,-12.375 32.75,-25.375 51.875,-38.5 l -128.75,-172.875 74.625,-51.625 116.5,186 c 35.375,-19.375 74.625,-37.375 117.625,-51.25 l -98,-307.25 148.375,-35.75 61.375,317.875 c 23.5,-2.625 47.125,-4 70.875,-3.875 l 54.75,-258.625 107.625,25 -76.75,241.625 c 81.375,14.875 149.25,49.625 203.625,93.25 l 208.875,-255.5 43.625,41.375 -215.75,246.375 c 43.125,42.375 75.625,89.75 97.5,134.625 l -133.875,77.375 c 0,0 -54.25,-127.375 -156.375,-204.125 11.75,27 18.125,56.875 18.125,88.125 0,122.75 -100.125,223 -222.75,223 -129.125,0 -231.375,-110.75 -222.375,-238.625 l 113.875,13.75 c -15.375,56.625 27.625,115.125 88.25,115.125 50,0 91.5,-41 91.5,-91.5 0,-134.375 -152.75,-167.25 -261.875,-121 -67.875,28.875 -122.5,71.25 -197.25,128.875 -76.375,-71.5 -155.875,-140.25 -235.5,-210.125 z"
+       style="fill:#004394;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="eye">
+      <desc
+         id="desc3074">OpenFest Eye Logo</desc>
+      <title
+         id="title3072">OpenFest Eye Logo</title>
+    </path>
+  </g>
+</svg>
